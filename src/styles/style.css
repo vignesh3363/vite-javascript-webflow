@@ -16,7 +16,3 @@
   z-index: 10000;
   transition: background-color .1s ease-out;
 }
-
-.js-badge:hover {
-  background-color: rgb(228, 137, 193);
-}
